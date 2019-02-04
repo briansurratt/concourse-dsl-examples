@@ -1,4 +1,4 @@
-package software.surratt
+package software.surratt.concoursedsl.examples.readme
 
 /**
  * This is the code from the README.md file in the concoursedsl project

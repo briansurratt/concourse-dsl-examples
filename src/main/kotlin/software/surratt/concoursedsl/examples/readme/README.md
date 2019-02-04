@@ -1,0 +1,1 @@
+The class in this package recreates the sample code on the README page at the root of the `concourse-dsl` project.
